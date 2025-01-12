@@ -3,6 +3,5 @@ streamlit-extras
 pandas
 PyPDF2
 langchain
-pickle
 os
 
