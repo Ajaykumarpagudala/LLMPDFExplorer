@@ -3,4 +3,5 @@ streamlit-extras
 pandas
 PyPDF2
 langchain
+langchain-community
 
